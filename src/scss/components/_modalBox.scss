@@ -1,0 +1,71 @@
+@import '../variables';
+
+.modal {
+  display: flex;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+  background-color: rgba(36, 36, 36, 0.6);
+  // display: none;
+
+  &__box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-content {
+      position: relative;
+      padding: 40px;
+      width: 874px;
+      background: $background;
+      border-radius: 10px;
+    }
+
+    &-title {
+      display: block;
+      font-size: 22px;
+      font-weight: 600;
+      margin-bottom: 30px;
+      transition-duration: 0.25s;
+    }
+
+    &-close {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background-color: transparent;
+      outline: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    &-region {
+      column-count: 4;
+      column-gap: 2em;
+      overflow-x: hidden;
+    }
+
+    &-item {
+      display: block;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      margin-bottom: 10px;
+      white-space: nowrap;
+      transition-duration: 0.25s;
+      cursor: pointer;
+
+      &:hover {
+        color: $main;
+      }
+
+      &.active {
+        color: $main;
+      }
+    }
+  }
+}

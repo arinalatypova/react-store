@@ -1,0 +1,263 @@
+[
+  {
+    "id": 0,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/6dd/100500_800_140cd750bba9870f18aada2478b24840a/6dd17eb9273de57ab91eae5bc11c12b2.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/5bf/100500_800_140cd750bba9870f18aada2478b24840a/5bf9020f543b1c4707c4efceac60e5cb.jpeg",
+    "title": "Apple MacBook Pro 16 (M2 Max 12C CPU, 38C GPU, 2023) 32 ГБ, 1 ТБ SSD, «серый космос»",
+    "price": "385 990",
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": 1,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/ac7/100500_800_140cd750bba9870f18aada2478b24840a/ac7fa7156fc033f1b5fa47e541716d7e.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/5bf/100500_800_140cd750bba9870f18aada2478b24840a/5bf9020f543b1c4707c4efceac60e5cb.jpeg",
+    "title": "Apple MacBook Pro 14 (M2 Pro 10C CPU, 16C GPU, 2023) 16 ГБ, 512 ГБ SSD, «серый космос»",
+    "price": "215 990",
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": 2,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/47a/100500_800_140cd750bba9870f18aada2478b24840a/47ab589cb45b8e7e32ab74eea1af371e.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/5bf/100500_800_140cd750bba9870f18aada2478b24840a/5bf9020f543b1c4707c4efceac60e5cb.jpeg",
+    "title": "Apple MacBook Pro 16 (M2 Pro 12C CPU, 19C GPU, 2023) 16 ГБ, 512 ГБ SSD, «серый космос»",
+    "price": "267 990",
+    "category": 1,
+    "rating": 1
+  },
+  {
+    "id": 3,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/ccf/100500_800_140cd750bba9870f18aada2478b24840a/ccf99e252986aaf40f3f1838e928033e.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/d51/100500_800_140cd750bba9870f18aada2478b24840a/d51128c81725b83e5d7c5c00864fdd0c.jpeg",
+    "title": "Apple MacBook Pro 16 (M2 Pro 12C CPU, 19C GPU, 2023) 16 ГБ, 1 ТБ SSD, серебристый",
+    "price": "288 990",
+    "category": 1,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/4dd/100500_800_140cd750bba9870f18aada2478b24840a/4dd1a382474ca2cfd0e70e916a356035.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/220/100500_800_140cd750bba9870f18aada2478b24840a/2205e101652f3b4096b9245a87603c7b.jpg",
+    "title": "Apple MacBook Air 13 (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
+    "price": "115 990",
+    "category": 1,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/0d9/100500_800_140cd750bba9870f18aada2478b24840a/0d924e8946d056f502c90a0568535154.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/446/100500_800_140cd750bba9870f18aada2478b24840a/44604ecaa491afa5e7fabfecace9d6f9.jpg",
+    "title": "Apple MacBook Air 13 (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «серый космос»",
+    "price": "115 990",
+    "category": 1,
+    "rating": 1
+  },
+  {
+    "id": 6,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/12c/100500_800_140cd750bba9870f18aada2478b24840a/12c15c292f6c2a5e876960c6af74d032.jpg",
+    "imageAdd": "https://spb-apple.ru/image/cache/catalog/Add/Apple%20MacBook%20Pro%2013/220831140011224734-700x700.jpg",
+    "title": "Apple MacBook Pro 13 (M2, 8C CPU/10C GPU, 2022), 8 ГБ, 256 ГБ SSD, серебристый",
+    "price": "124 990",
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/a97/100500_800_140cd750bba9870f18aada2478b24840a/a9711fa5056066770a6ca6b06c3b120f.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/c78/100500_800_140cd750bba9870f18aada2478b24840a/c782bd0656e5c1430c5056600f6b180d.jpeg",
+    "title": "Apple Mac Studio (M1 Ultra, 2022) 64 ГБ, SSD 1 ТБ",
+    "price": "559 990",
+    "category": 1,
+    "rating": 3
+  },
+  {
+    "id": 8,
+    "image": "https://static.re-store.ru/upload/iblock/dd6/9pczq4qiig1sckmko3qpm0jcy4l99tgx.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/iblock/029/7ayob31vhun70bnx75gs6je4go4mc1qg.jpg",
+    "title": "Apple iMac 24 Retina 4,5K, M1 (8C CPU, 8C GPU), 8 ГБ, 512 ГБ SSD, зеленый",
+    "price": "199 990",
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "id": 9,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/42e/100500_800_140cd750bba9870f18aada2478b24840a/42e73932ce44e55e98243767f2cfe92d.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/c17/100500_800_140cd750bba9870f18aada2478b24840a/c17cff558900335ed166d0bc949fb644.jpeg",
+    "title": "Apple iPhone 14 Pro Max eSIM 1 ТБ, золотой",
+    "price": "175 990",
+    "category": 2,
+    "rating": 3
+  },
+  {
+    "id": 10,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/f5d/100500_800_140cd750bba9870f18aada2478b24840a/f5d15c4de9c5fb584555e79d796545bd.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/e1c/100500_800_140cd750bba9870f18aada2478b24840a/e1c12a66054e69274663d2845bf8daaa.jpeg",
+    "title": "Apple iPhone 14 Pro Max eSIM 1 ТБ, темно-фиолетовый",
+    "price": "175 990",
+    "category": 2,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/575/100500_800_140cd750bba9870f18aada2478b24840a/575f1adb047fc4f8b327dcb40870e561.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/c09/100500_800_140cd750bba9870f18aada2478b24840a/c09b2517044ecd73e78b96f4ef82282c.jpeg",
+    "title": "Apple iPhone 14 Pro Max eSIM 1 ТБ, серебристый",
+    "price": "175 990",
+    "category": 2,
+    "rating": 1
+  },
+  {
+    "id": 12,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/d42/100500_800_140cd750bba9870f18aada2478b24840a/d420408681164a6dbb684f40444db322.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/0d5/100500_800_140cd750bba9870f18aada2478b24840a/0d55e0c33373059c30a07382e2b27222.jpeg",
+    "title": "Apple iPhone 14 Plus dual-SIM 256 ГБ, голубой",
+    "price": "94 990",
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/c00/100500_800_140cd750bba9870f18aada2478b24840a/c008e2ac8eca4af1783ebe1e0b421eca.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/c3a/100500_800_140cd750bba9870f18aada2478b24840a/c3afba0197200457e7f61a496e57b032.jpeg",
+    "title": "Apple iPhone 14 Plus SIM 256 ГБ, фиолетовый",
+    "price": "94 990",
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/24f/100500_800_140cd750bba9870f18aada2478b24840a/24f5d50a9566b7ce082e806f73aca7a2.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/bac/100500_800_140cd750bba9870f18aada2478b24840a/bac8a437143c80c5d27e2e7299751a90.jpeg",
+    "title": "Apple iPhone 14 Plus SIM 256 ГБ, «тёмная ночь»",
+    "price": "94 990",
+    "category": 2,
+    "rating": 1
+  },
+  {
+    "id": 15,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/c91/100500_800_140cd750bba9870f18aada2478b24840a/c913b6cc31ccea043738f8fcd465d21b.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/7ba/100500_800_140cd750bba9870f18aada2478b24840a/7ba42941648bef3efe35433acf4b2f0b.jpeg",
+    "title": "Apple Watch SE 2022, 44 мм, корпус из алюминия цвета «тёмная ночь», спортивный ремешок цвета «тёмная ночь»",
+    "price": "30 990",
+    "category": 3,
+    "rating": 1
+  },
+  {
+    "id": 16,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/81b/100500_800_140cd750bba9870f18aada2478b24840a/81b5e77f7b83a5574e6aa0dcb03785b7.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/ed3/100500_800_140cd750bba9870f18aada2478b24840a/ed35dca5d67675c627dfd1210460f777.jpg",
+    "title": "Apple Watch Ultra GPS + Cellular, 49 мм, корпус из титана, ремешок Trail желтого/бежевого цвета, размер M/L",
+    "price": "81 990",
+    "category": 3,
+    "rating": 2
+  },
+  {
+    "id": 17,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/b5d/100500_800_140cd750bba9870f18aada2478b24840a/b5d53eb3e3550169b70b49942ea6c493.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/13a/100500_800_140cd750bba9870f18aada2478b24840a/13a511bda9e3a631bc2a265fc7c67094.jpg",
+    "title": "Apple Watch Ultra GPS + Cellular, 49 мм, корпус из титана, ремешок Ocean желтого цвета",
+    "price": "81 990",
+    "category": 3,
+    "rating": 5
+  },
+  {
+    "id": 18,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/fed/100500_800_140cd750bba9870f18aada2478b24840a/fed70be36a7f7c3699602aa3b597807c.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/34f/100500_800_140cd750bba9870f18aada2478b24840a/34fb1022627ae19c51951f323e6b0a72.jpg",
+    "title": "Apple iPad Pro (2022) 11 Wi-Fi 256 ГБ, «серый космос»",
+    "price": "96 990",
+    "category": 4,
+    "rating": 2
+  },
+  {
+    "id": 19,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/fe5/100500_800_140cd750bba9870f18aada2478b24840a/fe52fccc8a9067f72270e4e54c149e3c.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/08a/100500_800_140cd750bba9870f18aada2478b24840a/08ab3cf0a3eaf846c26d780b2f7a89ff.jpg",
+    "title": "Apple iPad Pro (2022) 12,9 Wi-Fi + Cellular 512 ГБ, серебристый",
+    "price": "160 990",
+    "category": 4,
+    "rating": 6
+  },
+  {
+    "id": 20,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/a05/100500_800_140cd750bba9870f18aada2478b24840a/a059bc98abeff271457c30ba0a2077bf.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/99e/100500_800_140cd750bba9870f18aada2478b24840a/99e78b0d6bc34f133e592661f9a2fea2.jpg",
+    "title": "Наушники Apple AirPods Pro (2-го поколения, 2022), белый",
+    "price": "24 990",
+    "category": 5,
+    "rating": 1
+  },
+  {
+    "id": 21,
+    "image": "https://static.re-store.ru/upload/iblock/2a9/2a99e8441aaf177440c2b0fa6bf95a68.jpeg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/61a/100500_800_140cd750bba9870f18aada2478b24840a/61ac4e57cd091e3d58b32c24a8952428.jpeg",
+    "title": "Наушники Apple AirPods (2019) в зарядном футляре, белый",
+    "price": "12 990",
+    "category": 5,
+    "rating": 5
+  },
+  {
+    "id": 22,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/ff7/100500_800_140cd750bba9870f18aada2478b24840a/ff7768b64f4f19a08f576cee062f022d.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/1f1/100500_800_140cd750bba9870f18aada2478b24840a/1f154a60951a4713b418aea3f362d974.jpg",
+    "title": "Наушники Apple AirPods Max, зеленый",
+    "price": "74 990",
+    "category": 5,
+    "rating": 2
+  },
+  {
+    "id": 23,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/d75/100500_800_140cd750bba9870f18aada2478b24840a/d75004597bf2695fef2e5d0609e1b470.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/b03/100500_800_140cd750bba9870f18aada2478b24840a/b0310b6f7438b3ff47832c6e6be8c822.jpg",
+    "title": "Наушники Apple AirPods Max, розовый",
+    "price": "74 990",
+    "category": 5,
+    "rating": 2
+  },
+  {
+    "id": 24,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-select-202210?wid=540&hei=540&fmt=jpeg&qlt=95&.v=1670557209908",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/174/100500_800_140cd750bba9870f18aada2478b24840a/ai9f4p0u0h65he3u1hutz0ui071voeyr.jpg",
+    "title": "Умная колонка HomePod",
+    "price": "24 490",
+    "category": 6,
+    "rating": 3
+  },
+  {
+    "id": 25,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/911/100500_800_140cd750bba9870f18aada2478b24840a/mdowvkxpcbbnog9b1vsbp6dihlcqljnd.JPG",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/116/100500_800_140cd750bba9870f18aada2478b24840a/zsv7qbfddh8nfqiae4gfjj96xinz4si3.png",
+    "title": "Накладка moonfish для MacBook Pro 13' (2016-2022), черный, soft-touch",
+    "price": "2 990",
+    "category": 7,
+    "rating": 1
+  },
+  {
+    "id": 26,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/c2f/100500_800_140cd750bba9870f18aada2478b24840a/hq7tbioxe3s3n9bpzx1ijisr1dpqr34q.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/c92/100500_800_140cd750bba9870f18aada2478b24840a/9gzk0z5ug9ub3sptqovm0ibvcdm9adcd.jpg",
+    "title": "Чехол UAG Plyo MagSafe для iPhone 13 Pro, прозрачный",
+    "price": "2 990",
+    "category": 7,
+    "rating": 2
+  },
+  {
+    "id": 27,
+    "image": "https://static.re-store.ru/upload/resize_cache/iblock/612/100500_800_140cd750bba9870f18aada2478b24840a/uet0jagmq0y31kahq7r1mb2yc786qhv4.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/661/100500_800_140cd750bba9870f18aada2478b24840a/tuowk94ju0dxlpirlsfnd2iu17c8bj16.jpg",
+    "title": "Стилус Lyambda Magic Stick, белый",
+    "price": "2 990",
+    "category": 7,
+    "rating": 5
+  },
+  {
+    "id": 28,
+    "image": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/645270/1_645270.jpg",
+    "imageAdd": "https://static.re-store.ru/upload/resize_cache/iblock/50e/100500_800_140cd750bba9870f18aada2478b24840a/qnl51bmc9bzjobw6oixapmkiojd3zyj4.jpg",
+    "title": "Акустика портативная Яндекс Станция Макс с Zigbee и пультом, черный",
+    "price": "29 990",
+    "category": 7,
+    "rating": 9
+  }
+]

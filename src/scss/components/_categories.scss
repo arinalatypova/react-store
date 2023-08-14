@@ -1,0 +1,41 @@
+@import '../variables.scss';
+
+.categories {
+  @media screen and (max-width: 1200px) {
+    width: 100%;
+    overflow: auto;
+    margin-right: 30px;
+  }
+
+  ul {
+    display: flex;
+    @media screen and (max-width: 1200px) {
+      width: 200px;
+    }
+
+    li {
+      display: inline-block;
+      padding: 25px 15px;
+      margin-right: 10px;
+      font-weight: 700;
+      font-size: 14px;
+      transition-duration: 0.25s;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      transition: background-color 0.1s ease-in-out;
+      @include noselect();
+
+      &:hover {
+        border-bottom: 2px solid $main;
+      }
+
+      &:active {
+        color: $main;
+      }
+
+      &.active {
+        color: $main;
+      }
+    }
+  }
+}

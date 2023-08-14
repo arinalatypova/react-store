@@ -1,0 +1,22 @@
+.cart {
+  &__title {
+    margin-bottom: 10px;
+    font-size: 32px;
+    line-height: 44px;
+
+    @media screen and (max-width: 600px) {
+      font-size: 28px;
+      line-height: 36px;
+    }
+  }
+
+  p {
+    margin-bottom: 15px;
+    font-size: 15px;
+  }
+
+  a {
+    font-size: 14px;
+    color: #fff;
+  }
+}
